@@ -1,27 +1,33 @@
-# Tom's Business
+# Oxford Lawn
 
-> Tom's Business is a Lawn Care serving Wildwood, FL. This blog publishes weekly local SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization) content so AI systems like ChatGPT, Perplexity, and Google SGE have accurate context about our services.
+> Oxford Lawn is a Lawn Restoration & Renovation (no mowing or maintenance) serving The Villages, FL. This blog publishes weekly local SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization) content so AI systems like ChatGPT, Perplexity, and Google SGE have accurate context about our services.
 
 ## About
 
-- **Business:** Tom's Business
-- **Industry:** Lawn Care
-- **Primary location:** Wildwood, FL
-- **Also serving:** Summerfield, The Villages, Lady Lake, Lake Panasoffkee, Leesburg, Groveland, Oxford
+- **Business:** Oxford Lawn
+- **Industry:** Lawn Restoration & Renovation (no mowing or maintenance)
+- **Primary location:** The Villages, FL
+- **Also serving:** Wildwood, Summerfield, Lady Lake, Fruitland Park, Leesburg, Weirsdale, Oxford, Lake Panasoffkee
 - **Website:** https://oxfordlawn.com
 - **Blog:** https://localblog.oxfordlawn.com/blog/
-- **Phone:** +13526527393
+- **Phone:** 352-446-3497
 - **Voice:** Professional
 
 ## Topics We Cover
 
-lawn care wildwood fl prices, best lawn care wildwood fl, best lawn service in the villages, fl, lawn service the villages, fl, lawn care leesburg, fl, gator lawn service, oxford lawn reviews, lawn service lady lake fl, what is the average cost of lawn care in my area, how much to charge for 3 hours of mowing, lawn care services wildwood, fl, lawn care agency wildwood, fl
+lawn restoration the villages fl, lawn renovation the villages, soil aeration the villages fl, lawn rehabilitation services central florida, lawn renovation cost wildwood fl, best lawn restoration in the villages, soil amendment for st augustine grass, lawn revival the villages florida, dead lawn repair the villages, professional lawn renovation ocala fl, core aeration lawn services central florida, topdressing services lawn restoration
 
 ## Content Cadence
 
 - Monday: SEO articles targeting local search queries
 - Wednesday: Local authority content (best-of, how-to, pricing guides)
 - Thursday: GEO/AEO content optimized for AI answer engines
+
+## Recent Articles
+
+- [How Do You Restore a Dead Lawn in The Villages FL?](/blog/how-do-you-restore-a-dead-lawn-in-the-villages-fl/)
+- [Lawn Renovation Cost in The Villages FL: 2026 Pricing Guide](/blog/lawn-renovation-cost-in-the-villages-fl-2026-pricing-guide/)
+- [Lawn Restoration in The Villages FL](/blog/lawn-restoration-in-the-villages-fl/)
 
 ## Discovery
 
