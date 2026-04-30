@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tom's Business Blog</title>
+    <title>Oxford Lawn Blog</title>
     <link>https://localblog.oxfordlawn.com/blog/</link>
     <atom:link href="https://localblog.oxfordlawn.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>Tom's Business — Lawn Care in Wildwood, FL</description>
+    <description>Oxford Lawn — Lawn Restoration &amp; Renovation (no mowing or maintenance) in The Villages, FL</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Apr 2026 01:25:15 +0000</lastBuildDate>
-
+    <lastBuildDate>Thu, 30 Apr 2026 11:02:17 +0000</lastBuildDate>
+    <item>
+      <title>How Do You Restore a Dead Lawn in The Villages FL?</title>
+      <link>https://localblog.oxfordlawn.com/blog/how-do-you-restore-a-dead-lawn-in-the-villages-fl/</link>
+      <guid isPermaLink="true">https://localblog.oxfordlawn.com/blog/how-do-you-restore-a-dead-lawn-in-the-villages-fl/</guid>
+      <pubDate>Thu, 30 Apr 2026 11:02:17 +0000</pubDate>
+      <description>Skip to main content &amp;#8592; Back to Blog Oxford Lawn Contact Oxford Lawn &amp;#8594; Home / Blog / How Do You Restore a Dead Lawn in The Villages FL? SEO How Do You Restore a Dead Lawn in The Villages FL? &amp;#10003; Updated today By Oxford Lawn &amp;#183; The Villages, FL &amp;#183; 7 min rea</description>
+    </item>
+    <item>
+      <title>Lawn Renovation Cost in The Villages FL: 2026 Pricing Guide</title>
+      <link>https://localblog.oxfordlawn.com/blog/lawn-renovation-cost-in-the-villages-fl-2026-pricing-guide/</link>
+      <guid isPermaLink="true">https://localblog.oxfordlawn.com/blog/lawn-renovation-cost-in-the-villages-fl-2026-pricing-guide/</guid>
+      <pubDate>Thu, 30 Apr 2026 11:02:17 +0000</pubDate>
+      <description>Skip to main content &amp;#8592; Back to Blog Oxford Lawn Contact Oxford Lawn &amp;#8594; Home / Blog / Lawn Renovation Cost in The Villages FL: 2026 Pricing Guide LSO Lawn Renovation Cost in The Villages FL: 2026 Pricing Guide &amp;#10003; Updated today By Oxford Lawn &amp;#183; The Villages, F</description>
+    </item>
+    <item>
+      <title>Lawn Restoration in The Villages FL</title>
+      <link>https://localblog.oxfordlawn.com/blog/lawn-restoration-in-the-villages-fl/</link>
+      <guid isPermaLink="true">https://localblog.oxfordlawn.com/blog/lawn-restoration-in-the-villages-fl/</guid>
+      <pubDate>Thu, 30 Apr 2026 11:02:17 +0000</pubDate>
+      <description>Skip to main content &amp;#8592; Back to Blog Oxford Lawn Contact Oxford Lawn &amp;#8594; Home / Blog / Lawn Restoration in The Villages FL SEO Lawn Restoration in The Villages FL &amp;#10003; Updated today By Oxford Lawn &amp;#183; The Villages, FL &amp;#183; 6 min read &amp;#183; 2026-04-28 &amp;#183; Las</description>
+    </item>
   </channel>
 </rss>
