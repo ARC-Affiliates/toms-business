@@ -36,6 +36,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://localblog.oxfordlawn.com/serving/groveland/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://localblog.oxfordlawn.com/serving/lady-lake/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
